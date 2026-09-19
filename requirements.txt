@@ -1,6 +1,7 @@
 # Core runtime
 fastapi
 uvicorn[standard]
+gunicorn
 requests
 pandas
 numpy
