@@ -1,0 +1,21 @@
+# Core runtime
+fastapi
+uvicorn[standard]
+requests
+pandas
+numpy
+catboost
+scikit-learn
+streamlit
+matplotlib
+seaborn
+python-dotenv
+
+# Optional satellite/reanalysis integrations
+# Install these when ENABLE_OPTIONAL_SOURCES=1
+earthaccess
+cdsapi
+xarray
+rasterio
+geopandas
+shapely

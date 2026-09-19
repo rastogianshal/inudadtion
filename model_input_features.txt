@@ -1,0 +1,42 @@
+MODEL FEATURES
+
+state
+district
+latitude
+longitude
+air_temperature_2m_C
+dewpoint_temperature_2m_C
+relative_humidity_pct
+surface_pressure_hPa
+wind_u_10m_ms
+wind_v_10m_ms
+wind_speed_10m_ms
+precipitation_mm
+rain_3h_mm
+rain_6h_mm
+rain_12h_mm
+rain_24h_mm
+rain_72h_mm
+rain_7d_mm
+rainfall_anomaly_7d
+soil_moisture_0_10
+soil_moisture_anomaly
+elevation_m
+slope_deg
+flow_accumulation
+hand_m
+distance_to_river_m
+drainage_density_km_per_km2
+catchment_area_km2
+builtup_fraction
+impervious_fraction
+road_density
+building_density
+surface_water_occurrence
+runoff_mm
+
+TARGET
+flood_binary
+
+0 = No Flood
+1 = Flood

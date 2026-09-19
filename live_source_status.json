@@ -1,0 +1,47 @@
+{
+  "refreshed_at": "2026-09-19T07:55:16.538973+00:00",
+  "sources": {
+    "open_meteo_ecmwf": {
+      "enabled": false,
+      "available": false,
+      "details": [
+        "LIVE_OFFLINE=1"
+      ]
+    },
+    "open_meteo_flood_glofas": {
+      "enabled": false,
+      "available": false,
+      "details": [
+        "LIVE_OFFLINE=1"
+      ]
+    },
+    "imd": {
+      "enabled": false,
+      "available": false,
+      "details": [
+        "LIVE_OFFLINE=1"
+      ]
+    },
+    "nasa_power": {
+      "enabled": false,
+      "available": false,
+      "details": [
+        "LIVE_OFFLINE=1"
+      ]
+    },
+    "optional_external_sources": {
+      "enabled": false,
+      "details": [
+        "LIVE_OFFLINE=1"
+      ]
+    },
+    "nvidia_fourcastnet": {
+      "enabled": false,
+      "available": false,
+      "details": [
+        "LIVE_OFFLINE=1"
+      ]
+    },
+    "note": "Existing model/map data retained; no network data fetched."
+  }
+}
